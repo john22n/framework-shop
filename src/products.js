@@ -1,4 +1,4 @@
-import angularLogo from "./assets/angular.svg";
+ import angularLogo from "./assets/angular.svg";
 import backboneLogo from "./assets/backbone.svg";
 import electronLogo from "./assets/electron.svg";
 import emberLogo from "./assets/ember.svg";
